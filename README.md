@@ -1,8 +1,5 @@
 ## Hi there 👋
 
-<!--
-**vaishpartha/vaishpartha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Location: Baltimore, Maryland, USA
 
 My Favorite Fluorophore/Metal-Isotope: Spark Blue 550
